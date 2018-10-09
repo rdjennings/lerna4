@@ -1,0 +1,24 @@
+{
+  "name": "grocery",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Dean Jennings <dean@deanjennings.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/grocery.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@t7/render": "^0.0.11",
+    "apple": "^0.0.0",
+    "banana": "^0.0.0"
+  }
+}
